@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/ligneBrutale/blob/master/images/brutaleReadmeHeader.jpg)
+![Cover](https://github.com/nephcode/ligneBrutale/blob/main/images/brutaleReadmeHeader.jpg)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
@@ -80,7 +80,7 @@ $ make install-platform
 $ make run-platform
 ```
 
-![Cover](https://github.com/nephcode/ligneBrutale/blob/master/images/brutaleReadmeFooter.jpg)
+![Cover](https://github.com/nephcode/ligneBrutale/blob/main/images/brutaleReadmeFooter.jpg)
 
 # ligneBrutale
 Battle Rap F**** System
