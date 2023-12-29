@@ -2,12 +2,12 @@
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# LIGNE BRUTALE
+# RETHAGON
 
 ## ABOUT
 
-*The Fight Battle Rap Club *
-I am **Nephelim** From France, I am Product Owner and developer. Battle Rap Fan, I create this Dapp to Share, Stake with MC, FANS & MORE !!! 
+*Battle Rap Gaming*
+I am **Nephelim** From France, I am Web3 developer. Battle Rap Fan, I create this Dapp to Share, Stake with MC, FANS & MORE !!! 
 
 
 ## PROJECT DELIVERIES  
@@ -30,9 +30,8 @@ I am **Nephelim** From France, I am Product Owner and developer. Battle Rap Fan,
 ## INFORMATIONS
 |WHERE|URL|
 |:-----------|---|
-|Twitter|[https://twitter.com/Nafstars_off/](#)|
-|Discord|[https://discord.gg/N5UryCrS](#)|
-|Instagram|[https://www.instagram.com/lignebrutale](#)|
+|Discord|[#](#)|
+|Instagram|[https://www.instagram.com/](#)|
 |www|[https://lignebrutale.eth/](#)|
 |Jeu|[https://manager.nafstars.com/en](#)|
 |Staging|[https://testnet.lignebrutale/](#)|
@@ -40,13 +39,13 @@ I am **Nephelim** From France, I am Product Owner and developer. Battle Rap Fan,
 
 |WHO IS | FOR | COMPANY |CONTACT | DISCORD |
 |:------|-----|:-------:|------|:-------:|
-|Nephelim COHEN	| Head of Brutal | Brutale	| # | YES |
+|Nephelim COHEN	| Head of concept | Rethagon	| # | YES |
 |Pierre	Berthot	| Photographer | Freelancer	| #| YES |
 |Wojtek	| Legend | Artist	| # |YES|
-|Neah 	|Stack Developer |BRUTAL	|#|YES|
-|Nepha		|Stack Dev	|		|#|YES|
+|Neah 	|Stack Developer |Rethagon	|#|YES|
+|Nepha		|Stack Deveveloper	|	Rethagon	|#|YES|
 |Nicolas  	|Mentor				|ERA2140 |#|YES|
-|Daniel  	|Mentor				|ALYRA	|#|YES|
+|Daniel  	|Mentor				|Alyra	|#|YES|
 
 ## TECHNO
 
@@ -58,9 +57,9 @@ I am **Nephelim** From France, I am Product Owner and developer. Battle Rap Fan,
 |Back-end		| Node, TypeScript, GraphQL |
 |Moralis		|Manage the Cards <> with smartcontract and back-end|
 |Blockchain	| Smart Contract **ERC721** on Polygon to buy **cards**|
-|Blockchain	| Smart Contract **ERC721** on Polygon|https://testnets.opensea.io/assets/0x40581c8a683b46470f9c474d5a60fe82bfad3e4e/1
-|Blockchain	| Smart Contract **ERC20** to buy **Nstars** Token on MATIC|https://mumbai.polygonscan.com/address/0xa3eabe0a53de1a0f780406c9627584245a24a35d|
-|Blockchain	| Smart Contract **ERC721** to buy **Ticket** Avatar On Ethereum |https://rinkeby.etherscan.io/address/0x40581c8a683b46470f9c474d5a60fe82bfad3e4e|
+|Blockchain	| Smart Contract **ERC721** on Polygon|https://testnets.opensea.io/|
+|Blockchain	| Smart Contract **ERC20** to buy **Nstars** Token on MATIC|https://mumbai.polygonscan.com/|
+|Blockchain	| Smart Contract **ERC721** to buy **Ticket** Avatar On Ethereum |https://rinkeby.etherscan.io/|
 
 ## RUNNING THE APPS
 
