@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeHeader.jpg)
+![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeHeader.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
