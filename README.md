@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/ligneBrutale/blob/main/images/rethagonReadmeHeader.jpg)
+![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeHeader.jpg)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
@@ -60,5 +60,5 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 
 
-![Cover](https://github.com/nephcode/ligneBrutale/blob/main/images/rethagonReadmeFooter.png)
+![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeFooter.png)
 
