@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 666 324" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2167.84,-260.053)">
+        <g id="logo" transform="matrix(1,0,0,1,-60.7393,242.766)">
+            <rect x="2228.58" y="17.287" width="665.261" height="323.947" style="fill:none;"/>
+            <g transform="matrix(1.2439,0,0,1.96646,1120.55,362.263)">
+                <g transform="matrix(1.78518,0,0,1.12923,-841.694,-1309.62)">
+                    <g transform="matrix(43.61,0,0,43.61,1227.23,1096.4)">
+                    </g>
+                    <text x="972.508px" y="1096.4px" style="font-family:'welcome-font-bold', 'Welcome web';font-weight:700;font-size:43.61px;fill:white;">RETHA<tspan x="1118.03px " y="1096.4px ">G</tspan>ON</text>
+                </g>
+                <g transform="matrix(0.951982,-0.193659,0.306153,0.602184,-289.111,-454.224)">
+                    <path d="M1267.32,990.216C1264.59,982.037 1260.13,975.394 1254.13,970.128L1291.01,923.012L1403.83,938.982L1446.41,1044.67L1376.17,1134.39L1263.35,1118.42L1232.15,1040.98C1236.81,1043.57 1248.23,1044.71 1255.01,1041.01L1278.43,1099.16L1367.03,1111.7L1422.19,1041.24L1388.75,958.244L1300.15,945.702L1267.32,990.216Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
