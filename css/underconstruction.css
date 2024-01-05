@@ -6,10 +6,9 @@ html, body {
 
 main {
   margin: auto;
-  min-height: 50%;
-  width: 50%;
+  height: 100%;
+  width: 30%;
   display: flex;
-  align-content: center;
   align-items: center;
   justify-content: center;
 }
