@@ -45,21 +45,21 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 ## TECHNO
 
-| FULL       | STACK                                |
-| ---------- | ------------------------------------ |
-| FRONT-END  | ` TYPESCRIPT``REACT``SASS``TAILWIND` |
-| BACK-END   | `NODEJS` `SUPABASE`,`GRAPHQL`        |
-| BLOCKCHAIN | `ETHEREUM``POLYGON``SOLIDITY`                   |
+| FULL       | STACK                                  |
+| ---------- | -------------------------------------- |
+| FRONT-END  | `TYPESCRIPT` `REACT` `SASS` `TAILWIND` |
+| BACK-END   | `NODEJS` `SUPABASE` `GRAPHQL`          |
+| BLOCKCHAIN | `ETHEREUM` `POLYGON` `SOLIDITY`        |
 
 ## RUNNING THE APPS
 
-Please install environment `HOMEBREW`for `MAC`
-````
-brew install libusb 
+Please install environment `HOMEBREW` for `MACOS`
+
+```
+brew install libusb
 curl -L https://foundry.paradigm.xyz | bash
 
 
-````
-
+```
 
 ![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeFooter.png)
