@@ -45,18 +45,21 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 ## TECHNO
 
-| TECHNO     | SPEC                                                           | URL TESTNET                     |
-| :--------- | -------------------------------------------------------------- | ------------------------------- |
-| FRONT-END  | `TYPESCRIPT``REACT``SASS``TAILWIND`                            |
-| BACK-END   | `NODEJS` `ipt, GraphQL                                      |
-| BLOCKCHAIN | `ETHEREUM` `POLYGON`                          | 
-https://testnets.opensea.io/    |
-| Blockchain | Smart Contract **ERC20** to buy **Nstars** Token on MATIC      | https://mumbai.polygonscan.com/ |
-| Blockchain | Smart Contract **ERC721** to buy **Ticket** Avatar On Ethereum | https://rinkeby.etherscan.io/   |
+| FULL       | STACK                                |
+| ---------- | ------------------------------------ |
+| FRONT-END  | ` TYPESCRIPT``REACT``SASS``TAILWIND` |
+| BACK-END   | `NODEJS` `SUPABASE`,`GRAPHQL`        |
+| BLOCKCHAIN | `ETHEREUM``POLYGON``SOLIDITY`                   |
 
 ## RUNNING THE APPS
 
+Please install environment `HOMEBREW`for `MAC`
+````
+brew install libusb 
+curl -L https://foundry.paradigm.xyz | bash
+
+
+````
 
 
 ![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeFooter.png)
-
