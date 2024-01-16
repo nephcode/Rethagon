@@ -47,12 +47,10 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 | TECHNO     | SPEC                                                           | URL TESTNET                     |
 | :--------- | -------------------------------------------------------------- | ------------------------------- |
-| Front-end  | vue.js, TypeScript, GSAP                                       |
-| Css        | Tailwind                                                       |
-| Back-end   | Node, TypeScript, GraphQL                                      |
-| Moralis    | Manage the Cards <> with smartcontract and back-end            |
-| Blockchain | Smart Contract **ERC721** on Polygon to buy **cards**          |
-| Blockchain | Smart Contract **ERC721** on Polygon                           | https://testnets.opensea.io/    |
+| FRONT-END  | `TYPESCRIPT``REACT``SASS``TAILWIND`                            |
+| BACK-END   | `NODEJS` `ipt, GraphQL                                      |
+| BLOCKCHAIN | `ETHEREUM` `POLYGON`                          | 
+https://testnets.opensea.io/    |
 | Blockchain | Smart Contract **ERC20** to buy **Nstars** Token on MATIC      | https://mumbai.polygonscan.com/ |
 | Blockchain | Smart Contract **ERC721** to buy **Ticket** Avatar On Ethereum | https://rinkeby.etherscan.io/   |
 
