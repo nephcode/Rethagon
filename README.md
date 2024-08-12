@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/rethagon/blob/main/images/.github/rethagonReadmeHeader.png)
+![Cover](https://github.com/nephcode/rethagon/blob/main/.github/images/rethagonReadmeHeader.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
@@ -13,7 +13,7 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 | WHAT FOR               | WHEN         |
 | :--------------------- | ------------ |
 | Deadline MVP           | `10-11-2024` |
-| Deadline CERTIFICATION | `^latest` |
+| Deadline CERTIFICATION | `^latest`    |
 
 ## ARBORESCENCE / TEMPLATE PAGE
 
@@ -45,11 +45,12 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 ## TECHNO
 
-| FULL       | STACK                                  |
-| ---------- | -------------------------------------- |
-| FRONT-END  | `TYPESCRIPT` `REACT` `SASS` `TAILWIND` |
-| BACK-END   | `NODEJS` `SUPABASE` `GRAPHQL`          |
-| BLOCKCHAIN | `ETHEREUM` `POLYGON` `SOLIDITY`        |
+| FULL       | STACK                                     |
+| ---------- | ----------------------------------------- |
+| FRONT-END  | `TYPESCRIPT` `REACT@19` `SASS` `TAILWIND` |
+| BACK-END   | `BUN RUNTIME` `SUPABASE` `GRAPHQL`        |
+| BLOCKCHAIN | `ETHEREUM` `POLYGON` `SOLIDITY`           |
+| PACKAGE    | `VITE`                                    |
 
 ## RUNNING THE APPS
 
@@ -61,5 +62,6 @@ curl -L https://foundry.paradigm.xyz | bash
 
 
 ```
+Please the full Installation [is here](INSTALL.md)
 
 ![Cover](https://github.com/nephcode/rethagon/blob/main/.github/images/rethagonReadmeFooter.png)
