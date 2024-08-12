@@ -1,4 +1,4 @@
-![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeHeader.png)
+![Cover](https://github.com/nephcode/rethagon/blob/main/images/.github/rethagonReadmeHeader.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
@@ -12,8 +12,8 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 | WHAT FOR               | WHEN         |
 | :--------------------- | ------------ |
-| Deadline MVP           | `18-03-2024` |
-| Deadline CERTIFICATION | `15-04-2024` |
+| Deadline MVP           | `10-11-2024` |
+| Deadline CERTIFICATION | `^latest` |
 
 ## ARBORESCENCE / TEMPLATE PAGE
 
@@ -62,4 +62,4 @@ curl -L https://foundry.paradigm.xyz | bash
 
 ```
 
-![Cover](https://github.com/nephcode/rethagon/blob/main/images/rethagonReadmeFooter.png)
+![Cover](https://github.com/nephcode/rethagon/blob/main/.github/images/rethagonReadmeFooter.png)
