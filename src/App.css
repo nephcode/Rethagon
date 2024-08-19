@@ -5,8 +5,18 @@
   text-align: center;
 }
 
+.hero {
+  height: 9rem;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.hero:hover {
+  filter: drop-shadow(0 0 2em #FFFFFFaa);
+}
+
 .logo {
-  height: 6em;
+  height: 3rem;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
@@ -16,6 +26,9 @@
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
+}
+.logo.bun:hover {
+  filter: drop-shadow(0 0 2em #ebcaf0aa);
 }
 
 @keyframes logo-spin {
