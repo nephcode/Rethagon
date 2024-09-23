@@ -1,0 +1,25 @@
+footer {
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: fit-content;
+  background-color: transparent;
+  color: white;
+}
+footer p {
+  color: #FFFFFF;
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.2941176471);
+  border-radius: 7px;
+  padding: 3px 7px;
+}
+footer .punchline {
+  height: clamp(30px, 5vh, 55px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}/*# sourceMappingURL=footer.module.css.map */

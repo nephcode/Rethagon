@@ -48,8 +48,8 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 | FULL       | STACK                                     |
 | ---------- | ----------------------------------------- |
 | FRONT-END  | `TYPESCRIPT` `REACT@19` `SASS` `TAILWIND` |
-| BACK-END   | `BUN RUNTIME` `SUPABASE` `GRAPHQL`        |
-| BLOCKCHAIN | `ETHEREUM` `POLYGON` `SOLIDITY`           |
+| BACK-END   | `NODE 22 LTS` `SUPABASE` `REST`        |
+| BLOCKCHAIN | `POLYGON` `SOLIDITY`           |
 | PACKAGE    | `VITE`                                    |
 
 ## RUNNING THE APPS
