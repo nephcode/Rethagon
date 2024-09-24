@@ -27,11 +27,11 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 ## INFORMATIONS
 
-| WHERE     | URL                             |
-| :-------- | ------------------------------- |
-| Discord   | [#](#)                          |
-| Instagram | [https://www.instagram.com/](#) |
-| www       | [https://rethagon.com/](#)      |
+| WHERE      | URL                             |
+| :--------- | ------------------------------- |
+| Discord    | [#](#)                          |
+| Instagram  | [https://www.instagram.com/](#) |
+| Production | [https://rethagon.com/](#)      |
 
 | WHO IS         | FOR               |  COMPANY   | CONTACT | DISCORD |
 | :------------- | ----------------- | :--------: | ------- | :-----: |
@@ -48,8 +48,8 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 | FULL       | STACK                                     |
 | ---------- | ----------------------------------------- |
 | FRONT-END  | `TYPESCRIPT` `REACT@19` `SASS` `TAILWIND` |
-| BACK-END   | `NODE 22 LTS` `SUPABASE` `REST`        |
-| BLOCKCHAIN | `POLYGON` `SOLIDITY`           |
+| BACK-END   | `NODE 22 LTS` `SUPABASE` `REST`           |
+| BLOCKCHAIN | `POLYGON` `SOLIDITY`                      |
 | PACKAGE    | `VITE`                                    |
 
 ## RUNNING THE APPS
@@ -62,6 +62,7 @@ curl -L https://foundry.paradigm.xyz | bash
 
 
 ```
+
 Please the full Installation [is here](INSTALL.md)
 
 ![Cover](https://github.com/nephcode/rethagon/blob/main/.github/images/rethagonReadmeFooter.png)
