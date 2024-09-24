@@ -1,7 +1,10 @@
-import rethagonLogo from '/rethagon-logo.svg'
-import scssHome from './home.module.scss'
+// ASSETS ========================================================//
+import React from 'react';
+import rethagonLogo from '../../assets/common/rethagon.svg';
+import scssHome from './home.module.scss';
 
-function App() {
+// COMPONENTS ====================================================//
+const Home: React.FC = () => {
   return (
     <main className={scssHome.home}>
       <div>
@@ -12,10 +15,10 @@ function App() {
       <p className={scssHome.beta}>
         Coming soon...
       </p>
-
-
     </main>
   )
 }
 
-export default App
+export default Home;
+
+// END OF COMPONENT ==============================================//

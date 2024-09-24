@@ -1,16 +1,19 @@
 {
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ],
   "compilerOptions": {
+    "types": ["vite/client"],
+    "typeRoots": ["./node_modules/@types", "./types"],
     "module": "commonjs",
     "target": "es5",
-    "lib": ["dom", "es2015"],
+    "lib": ["dom", "es2017"],
     "jsx": "react",
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,   
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "./dist",  // Chemin de sortie des fichiers générés
+    "composite": true  
   },
   "include": ["src"]
 }

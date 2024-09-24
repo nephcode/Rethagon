@@ -1,5 +1,8 @@
-import scssHeader from './Header.module.scss';
+// ASSETS ========================================================//
+import React from 'react';
+import scssHeader from './header.module.scss'; // Ensure you have a type declaration for SCSS modules
 
+// COMPONENTS ====================================================//
 const Header: React.FC = () => {
     return (
         <header className={scssHeader.header}>
@@ -7,4 +10,7 @@ const Header: React.FC = () => {
         </header>
     );
 }
+
 export default Header;
+
+// END OF COMPONENT ==============================================//
