@@ -53,3 +53,5 @@ my-project/
 ├── hardhat.config.js               # Configuration de Hardhat pour la blockchain
 ├── README.md                       # Documentation du projet
 └── tsconfig.json                   # Configuration TypeScript (si TypeScript est utilisé)
+
+By Neah
