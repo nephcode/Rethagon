@@ -1,0 +1,36 @@
+//============================================= RETHAGON =============//
+// LAYOUT ARTIST =====================================================//
+//==================================== By NEPHELIM ============ 2024 =//
+@use 'src/styles/colors.module.scss' as colors;
+
+.layoutArtist {
+    columns: 1;
+    gap: 1rem;
+    padding: 1rem;
+    text-align: center;
+
+    h2 {
+        font-size: 1.6rem;
+        color: #FFFFFF;
+        font-weight: 800;
+        text-transform: uppercase;
+        text-align: center;
+        background-color: #0000004b;
+        border-radius: 7px;
+        padding: 3px 7px;
+    }
+
+    p {
+        color: #FFFFFF;
+        font-weight: 800;
+        text-transform: uppercase;
+        text-align: center;
+        background-color: #0000004b;
+        border-radius: 7px;
+        padding: 3px 7px;
+    }
+
+    .selectionArtist {
+        columns: 4;
+    }
+}

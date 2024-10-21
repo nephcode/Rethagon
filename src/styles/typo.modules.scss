@@ -1,0 +1,30 @@
+//============================================= RETHAGON =============//
+// TYPO ==============================================================//
+//============================== By NEPHELIM ================= 2024 ==//
+@use "./colors.module.scss" as colors;
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../assets/fonts/Futura.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+$fontDefault : "Montserrat";
+$fontSizeRoot : 16px;
+$fontSizeDefault : 1.0rem;
+$fontSizeTitle : 1.2rem;
+
+h1 {
+    font-size: 3rem;
+    font-family: "Futura";
+    font-weight: 400;
+    text-transform: uppercase;
+
+    color: colors.$colorTypoWhite;
+    margin: 0;
+    padding: 0;
+}

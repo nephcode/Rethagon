@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Performance",
+        "description": "Serveur discord de la communauté Battle Rap",
+        "image_url": "/media/performance.svg",
+        "discord": "https://discord.gg/efGtN7Ba"
+    },
+    {
+        "id": 2,
+        "name": "Meme Contenders",
+        "image_url": "/social/salesforce.svg",
+        "youtube": "https://www.youtube.com/c/MemeContenders",
+        "instagram": "https://www.instagram.com/memecontenders"
+        
+    },
+    {
+        "id": 3,
+        "name": "BR Story",
+        "description": "Chaîne de Storytelling des Battles MC",
+        "image": "/social/github.svg",
+        "url-youtube": "https://www.youtube.com/@BRStory99"
+        
+    },
+    {
+        "id": 4,
+        "name": "Versos TV",
+        "description": "Chaîne de Review Battle Rap Francophone",
+        "image": "/social/linkedin.svg",
+        "url-youtube": "https://www.youtube.com/@VERSOStv/playlists"
+        
+    },
+    {
+        "id": 5,
+        "name": "Reality Check",
+        "description": "Podcast de LACX (RC & RALR)",
+        "image_url": "/social/realitycheck.svg",
+        "twitch": "https://www.twitch.tv/rapcontendersoff"
+        
+    }
+]

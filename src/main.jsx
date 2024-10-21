@@ -3,13 +3,13 @@ import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-// COMPONENTS ====================================================//  
+// COMPONENTS ====================================================//
 import Footer from './layouts/Footer';
 import Header from './layouts/Header';
 import Home from './pages/Home';
 
 // STYLES ========================================================//
-import './styles/main.scss';
+import './styles/main.module.scss';
 
 // RENDER APPLICATION ============================================//
 const rootElement = document.getElementById('root');

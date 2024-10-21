@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "lgenius",
+        "image_url": "/artist/lgenis.jpg",
+        "description": "Le daron pour ta daronne",
+        "elo" : 1490,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 2,
+        "name": "marco",
+        "image_url": "/artist/marco.jpg",
+        "description": "Le daron pour ta daronne",
+        "elo" : 2100,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 3,
+        "name": "wojtek",
+        "image_url": "/artist/wojtek.jpg",
+        "description": "Le daron pour ta daronne",
+        "elo" : 3000,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 4,
+        "name": "bramzo",
+        "image_url": "/artist/bramzo.jpg",
+        "description": "Le 42 enfoiré",
+        "elo" : 2730,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 5,
+        "name": "frizz",
+        "image_url": "/artist/frizz.jpg",
+        "description": "Le daron pour ta daronne",
+        "elo" : 1420,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 6,
+        "name": "cheef",
+        "image_url": "/artist/frizz.jpg",
+        "description": "Le daron pour ta daronne",
+        "elo" : 3200,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 7,
+        "name": "ldp",
+        "image_url": "/artist/ldp.jpg",
+        "description": "Le dernier Parisien",
+        "elo" : 2080,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 8,
+        "name": "patissier",
+        "image_url": "/artist/patissier.jpg",
+        "description": "Parisien de l'orient",
+        "elo" : 2500,
+        "instagram": "https://discord.gg/efGtN7Ba",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    }
+]

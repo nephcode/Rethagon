@@ -1,0 +1,37 @@
+//============================================= RETHAGON =============//
+// COLORS ============================================================//
+//==================================== By NEPHELIM ============ 2024 =//
+
+// Colors Global -- --------------------------------------------------//
+$backgroundSite: #242424 !default;
+$backgroundSiteLight: #ffffff !default;
+$backgroundSiteDark: #242424 !default;
+
+$backgroundFooter: #242424 !default;
+$backgroundHeader: #FF0042 !default;
+
+$backgroundGlobalElement: #9356dc !default;
+$colorGreyBackground : #FAFAFA;
+
+// Colors Components ------------------------------------------------//
+$colorMain : #f0ae7880;
+$colorSecondary : #FF007E;
+//$colorTernary : #f6e59f46;
+$colorTernary : #93acff15;
+$colorWhite : #FFFFFF;
+$colorBlack : #000000;
+$colorGrey : #E3E3E3;
+
+$backgroundCard: #F6F6F6 !default;
+$backgroundShadowLight: rgba(255, 255, 255, 0.5) !default;
+
+// Colors Typo ------------------------------------------------------//
+$colorTypoGrey : #757575;
+$colorTypoGreyBis :#312E2E;
+$colorTypoBlack : #000000;
+$colorTypoWhite : #ffffff;
+
+// Mixins -----------------------------------------------------------//
+@mixin backgroundGradient($startColor, $endColor) {
+    background-color: linear-gradient(to right, $startColor, $endColor);
+}

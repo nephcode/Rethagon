@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "frontend",
+    "emoji": "👩🏼‍💼",
+    "details": ["react", "redux", "vanilla", "styled components"]
+  },
+  {
+    "id": 2,
+    "name": "backend",
+    "emoji": "👩🏼‍💻",
+    "details": ["next", "remix", "rest", "sql", "serverless"]
+  },
+  {
+    "id": 6,
+    "name": "runtime",
+    "emoji": "🧱",
+    "details": ["node", "bun", "deno"]
+  },
+  {
+    "id": 3,
+    "name": "web3",
+    "emoji": "🔗",
+    "details": ["solidity", "ethers", "hardhat", "foundry"]
+  },
+  {
+    "id": 4,
+    "name": "cms",
+    "emoji": "🤖",
+    "details": ["ghost creative design"]
+  },
+  {
+    "id": 5,
+    "name": "product",
+    "emoji": "👜",
+    "details": ["management", "storytelling", "agile scrum"]
+  },
+  {
+    "id": 7,
+    "name": "design",
+    "emoji": "🍀",
+    "details": ["figma","affinity designer","finalcut"]
+  }
+]
