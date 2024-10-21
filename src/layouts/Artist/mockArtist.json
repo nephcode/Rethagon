@@ -2,21 +2,23 @@
     {
         "id": 1,
         "name": "lgenius",
-        "image_url": "/artist/lgenis.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/lgenius.jpg",
         "description": "Le daron pour ta daronne",
         "elo" : 1490,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "matchup": 5,
+        "instagram": "https://www.instagram.com/lgenius_officiel/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
-        "league": ["rc", "roar", "warmup"]
+        "league": ["rc", "", "warmup"]
     },
     {
         "id": 2,
         "name": "marco",
-        "image_url": "/artist/marco.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/marco.jpeg",
         "description": "Le daron pour ta daronne",
         "elo" : 2100,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "matchup": 28,
+        "instagram": "https://www.instagram.com/marco_eloq_pro/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
@@ -71,7 +73,7 @@
         "image_url": "/artist/ldp.jpg",
         "description": "Le dernier Parisien",
         "elo" : 2080,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "instagram": "https://efGtN7Ba",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
