@@ -1,15 +1,13 @@
 // import {} ==========================================//
 
-//import { React } from 'react';
-//import styled
-
 // Import skillBar styles ============================//
 import scssCard from './cardartist.module.scss';
-
+const imgDefault =
+  'https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/artistDefault.jpg';
 //import data =========================================//
 //import mockData from '../../layouts/Artist/mockArtist.json';
 
-// skillBar component ================================//
+// CardArtist component ===============================//
 const CardArtist = ({ artist }) => {
   return (
     <article
@@ -19,13 +17,15 @@ const CardArtist = ({ artist }) => {
     >
       <figure className={scssCard.skilli}>
         <img
-          src={artist.image_url}
+          src={artist.image_url || imgDefault}
           alt={artist.name}
           aria-label={artist.name}
         />
-        <figcaption>{artist.name}</figcaption>
-        <h3 className={scssCard.name}>{artist.name}</h3>
-        <span className={scssCard.Details}>{artist.elo}</span>
+        <figcaption>
+          <h3>{artist.name}</h3>
+          <p className={scssCard.elo}>ELO: {artist.elo}</p>
+          <p className={scssCard.elo}>XP: {artist.matchup || '--'}</p>
+        </figcaption>
       </figure>
     </article>
   );

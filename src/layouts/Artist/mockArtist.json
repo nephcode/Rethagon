@@ -26,10 +26,10 @@
     {
         "id": 3,
         "name": "wojtek",
-        "image_url": "/artist/wojtek.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/wojtek.jpg",
         "description": "Le daron pour ta daronne",
         "elo" : 3000,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "instagram": "https://www.instagram.com/wojteklewojtek/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
@@ -37,10 +37,11 @@
     {
         "id": 4,
         "name": "bramzo",
-        "image_url": "/artist/bramzo.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/bramzo.jpg",
         "description": "Le 42 enfoiré",
         "elo" : 2730,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "matchup": 9,
+        "instagram": "https://www.instagram.com/bramzo_officiel/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
@@ -48,7 +49,7 @@
     {
         "id": 5,
         "name": "frizz",
-        "image_url": "/artist/frizz.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/frizz.jpg",
         "description": "Le daron pour ta daronne",
         "elo" : 1420,
         "instagram": "https://discord.gg/efGtN7Ba",
@@ -59,10 +60,10 @@
     {
         "id": 6,
         "name": "cheef",
-        "image_url": "/artist/frizz.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/cheef.jpg",
         "description": "Le daron pour ta daronne",
         "elo" : 3200,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "instagram": "https://www.instagram.com/cheef_enfanterrible/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
@@ -70,21 +71,42 @@
     {
         "id": 7,
         "name": "ldp",
-        "image_url": "/artist/ldp.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/ldp.jpg",
         "description": "Le dernier Parisien",
         "elo" : 2080,
-        "instagram": "https://efGtN7Ba",
+        "instagram": "https://www.instagram.com/ledernierparisien/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
     },
     {
+        "id": 100,
+        "name": "rethagueule",
+        "description": "faux profil elo 80 comme le QI",
+        "elo" : 80,
+        "skills": ["flow", "barz", "bodybag"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup", "versos"]
+    },
+    {
         "id": 8,
         "name": "patissier",
-        "image_url": "/artist/patissier.jpg",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/patissier.jpg",
         "description": "Parisien de l'orient",
         "elo" : 2500,
-        "instagram": "https://discord.gg/efGtN7Ba",
+        "instagram": "https://www.instagram.com/patissier.delorient/",
+        "skills": ["flow", "barz", "clash"],
+        "scred": ["instagram", "tiktok", "spotify"],
+        "league": ["rc", "roar", "warmup"]
+    },
+    {
+        "id": 9,
+        "name": "la gazelle",
+        "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/lagazelle.jpg",
+        "description": "Fine & Forte",
+        "elo" : 1300,
+        "matchup": 7,
+        "instagram": "https://www.instagram.com/__la_gazelle__/",
         "skills": ["flow", "barz", "clash"],
         "scred": ["instagram", "tiktok", "spotify"],
         "league": ["rc", "roar", "warmup"]
