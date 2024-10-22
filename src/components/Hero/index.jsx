@@ -11,7 +11,7 @@ const Hero = () => {
           <img src={rethagonLogo} alt="Rethagon logo" />
         </a>
       </div>
-      <p className={scssHero.beta}>Coming soon...</p>
+      <p className={scssHero.soon}>Coming soon...</p>
     </section>
   );
 };

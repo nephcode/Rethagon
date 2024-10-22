@@ -9,7 +9,6 @@ import scssHome from './home.module.scss';
 const Home = () => {
   return (
     <main className={scssHome.home}>
-      {/* <Hero /> */}
       <ArtistSection />
     </main>
   );

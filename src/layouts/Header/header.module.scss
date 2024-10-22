@@ -1,7 +1,7 @@
 .header {
     position: sticky;
 
-    //
+
     display: flex;
     justify-content: center;
     width: 100%;
@@ -10,7 +10,9 @@
     color: white;
 
 
-    p {
+    .beta {
+        position: absolute;
+        right: 10px;
         color: #FFFFFF;
         font-weight: 800;
         text-transform: uppercase;

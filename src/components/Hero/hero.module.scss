@@ -33,6 +33,21 @@
     }
 }
 
+.soon {
+    position: relative;
+    bottom: 95px;
+    left: -38px;
+
+    font-size: 1.0rem;
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: center;
+    //background-color: #0000004b;
+    //border-radius: 7px;
+    padding: 3px 7px;
+}
+
 .logo {
     width: clamp(10rem, 20vw, 22rem);
     //height: 3rem;

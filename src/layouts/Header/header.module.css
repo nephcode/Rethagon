@@ -7,7 +7,9 @@
   background-color: transparent;
   color: white;
 }
-.header p {
+.header .beta {
+  position: absolute;
+  right: 10px;
   color: #FFFFFF;
   font-weight: 800;
   text-transform: uppercase;

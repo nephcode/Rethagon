@@ -48,7 +48,7 @@
     },
     {
         "id": 5,
-        "name": "frizz",
+        "name": "fryyz",
         "image_url": "https://ffnhxencefouuekzfhbo.supabase.co/storage/v1/object/public/artist/frizz.jpg",
         "description": "Le daron pour ta daronne",
         "elo" : 1420,
@@ -81,7 +81,7 @@
     },
     {
         "id": 100,
-        "name": "rethagueule",
+        "name": "rethatest",
         "description": "faux profil elo 80 comme le QI",
         "elo" : 80,
         "skills": ["flow", "barz", "bodybag"],

@@ -1,3 +1,8 @@
+//============================================= RETHAGON =============//
+// MAIN ==============================================================//
+//============================== By NEPHELIM ================= 2024 ==//
+@use './colors.module.scss' as colors;
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -5,7 +10,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: colors.$backgroundSite;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -70,8 +75,8 @@ button:focus-visible {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    color: colors.$colorTypoWhite;
+    background-color: colors.$backgroundSiteLight;
   }
 
   a:hover {
