@@ -23,34 +23,36 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 | MARKETPLACE |   Collect Artist    |
 | ARTIST      | Stats & Performance |
 | LEAGUE      |      Historic       |
-| EVENT       |                     |
+| EVENT       |   Battle forecast   |
 
 ## INFORMATIONS
 
-| WHERE      | URL                             |
-| :--------- | ------------------------------- |
-| Discord    | [#](#)                          |
-| Instagram  | [https://www.instagram.com/](#) |
-| Production | [https://rethagon.com/](#)      |
+| WHERE      | URL                                                                  |
+| :--------- | -------------------------------------------------------------------- |
+| Discord    | [Discord BR Performance]()                                           |
+| Instagram  | [https://www.instagram.com/](https://www.instagram.com/rethagon.app) |
+| Youtube    | [https://www.youtube.com/](https://www.youtube.com/@rethagon)        |
+| Production | [https://rethagon.com/](https://rethagon.com)                        |
 
-| WHO IS         | FOR               |  COMPANY   | CONTACT | DISCORD |
-| :------------- | ----------------- | :--------: | ------- | :-----: |
-| Nephelim       | Head of concept   |  Rethagon  | #       |   YES   |
-| Pierre Berthot | Photographer      | Freelancer | #       |   YES   |
-| Wojtek         | Legend            |   Artist   | #       |   YES   |
-| Neah           | Stack Developer   |  Rethagon  | #       |   YES   |
-| Nepha          | Stack Deveveloper |  Rethagon  | #       |   YES   |
-| Nicolas        | Mentor            |  Era 2140  | #       |   YES   |
-| Daniel         | Mentor            |   Alyra    | #       |   YES   |
+| WHO IS         | FOR                 |  COMPANY   | CONTACT | DISCORD |
+| :------------- | ------------------- | :--------: | ------- | :-----: |
+| Nephelim       | Head of concept     |  Rethagon  | #       |   YES   |
+| Pierre Berthot | Photographer        | Freelancer | #       |   YES   |
+| Wojtek         | Legend              |   Artist   | #       |   YES   |
+| Neah           | Fullstack Developer |  Rethagon  | #       |   YES   |
+| Nepha          | Fullstack Developer |  Rethagon  | #       |   YES   |
+| Nicolas        | Mentor              |  Era 2140  | #       |   YES   |
+| Daniel         | Mentor              |   Alyra    | #       |   YES   |
 
 ## TECHNO
 
-| FULL       | STACK                                     |
-| ---------- | ----------------------------------------- |
-| FRONT-END  | `TYPESCRIPT` `REACT@19` `SASS` `TAILWIND` |
-| BACK-END   | `NODE 22 LTS` `SUPABASE` `REST`           |
-| BLOCKCHAIN | `POLYGON` `SOLIDITY`                      |
-| PACKAGE    | `VITE`                                    |
+| FULL       | STACK                                       |
+| ---------- | ------------------------------------------- |
+| FRONT-END  | `TYPESCRIPT` `REACT@19RC` `SASS` `TAILWIND` |
+| BACK-END   | `NODE 22 LTS` `SUPABASE` `REST` `DRIZZLE`   |
+| FULLSTACK  | `VITE` `REMIX`                              |
+| TEST       | `VITEST` `PLAYWRIGHT`                       |
+| BLOCKCHAIN | `POLYGON` `SOLIDITY`                        |
 
 ## RUNNING THE APPS
 
