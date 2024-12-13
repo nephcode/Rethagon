@@ -41,7 +41,7 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 | Wojtek         | Legend              |   Artist   | #       |   YES   |
 | Neah           | Fullstack Developer |  Rethagon  | #       |   YES   |
 | Nepha          | Fullstack Developer |  Rethagon  | #       |   YES   |
-| Cyril        | Mentor              |  Alyra  | #       |   YES   |
+| Cyril          | Mentor              |   Alyra    | #       |   YES   |
 | Daniel         | Mentor              |   Alyra    | #       |   YES   |
 
 ## TECHNO
