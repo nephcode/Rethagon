@@ -1,9 +1,13 @@
 //============================================= RETHAGON =============//
 // COLORS ============================================================//
-//==================================== By NEPHELIM ============ 2024 =//
+//==================================== By NEPHELIM ============ 2025 =//
 
-// Colors Global -- --------------------------------------------------//
-$backgroundSite: #242424 !default;
+// Colors Global -----------------------------------------------------//
+
+$backgroundSite: oklch(0.26 0 0) !default; // #242424
+$backgroundSiteLight: oklch(0.26 0 0) !default; // #242424
+$backgroundSiteDark: oklch(0.26 0 0) !default; // #242424
+
 $backgroundSiteLight: #242424 !default;
 $backgroundSiteDark: #242424 !default;
 
