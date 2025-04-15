@@ -10,10 +10,10 @@ Rethagon, a game of "BattleRap". Collect the cards of Battle MCs, rate their per
 
 ## PROJECT DELIVERIES
 
-| WHAT FOR               | WHEN         |
-| :--------------------- | ------------ |
-| Deadline MVP           | `10-11-2024` |
-| Deadline CERTIFICATION | `^latest`    |
+| WHAT FOR               | WHEN      |
+| :--------------------- | --------- |
+| Deadline MVP           | `2025`    |
+| Deadline CERTIFICATION | `^latest` |
 
 ## ARBORESCENCE / TEMPLATE PAGE
 
