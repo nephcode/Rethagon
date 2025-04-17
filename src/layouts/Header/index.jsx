@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header className={scssHeader.header}>
       <Hero />
-      <p className={scssHeader.beta}>Beta early access only - v 0.3.1</p>
+      <p className={scssHeader.beta}>Beta early access only - v 0.3.2</p>
     </header>
   );
 };
