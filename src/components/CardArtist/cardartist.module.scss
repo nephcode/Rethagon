@@ -14,9 +14,13 @@
     height: 380px;
 
     @media (max-width: 768px) {
-        width: auto; // Allow 2 cards per line with some margin
-        height: 340px;
-        margin: 0.5rem 2.5%; // Add horizontal margin
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+        height: auto;
+
+
     }
 
     figure {
@@ -30,10 +34,15 @@
         width: 100%;
         margin: 0px;
         bottom: -56px;
+
+        @media screen and (max-width: 768px) {
+            bottom: 0px;
+
+        }
     }
 
     h3 {
-        font-size: 2rem;
+        font-size: clamp(1.2rem, 2vw, 3rem);
         text-transform: uppercase;
         margin: 0;
         text-align: left;
@@ -53,5 +62,12 @@
         object-fit: cover;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
+
+        @media (max-width: 768px) {
+            max-height: 200px;
+            height: auto;
+            width: 100%;
+            object-fit: cover;
+        }
     }
 }
